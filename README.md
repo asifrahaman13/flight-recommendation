@@ -27,5 +27,11 @@ Install the required dependencies.
 ```bash
 pip install -r requirements.txt
 ```
+Next step would be to create env variables. 
+
+```bash
+mv .env.example .env
+```
+Enter the necessary variables there.
 
 Not you can run the ipynb files. 
